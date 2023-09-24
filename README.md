@@ -3,13 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=LikoKiko&label=Profile%20views&color=0e75b6&style=flat" alt="LikoKiko" />
 </p>
 
-👋 Hey there! I'm Liko, a passionate developer and security enthusiast since the age of 8.
+<h4 align="center"> 👋 Hey there! I'm Liko, a passionate developer and security enthusiast since the age of 8.</h4>
 
-🎯 My ultimate goal? To turn my dreams into reality and build my own company someday. 
+<h4 align="center"> 🎯 My ultimate goal? To turn my dreams into reality and build my own company someday. </h4>
 
-⚡ Currently taking a (well-deserved) break for the next 2 weeks ❗ 
+<h4 align="center"> ⚡ Currently taking a (well-deserved) break for the next 2 weeks ❗ </h4>
 
-🏆  With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity).
+<h4 align="center"> 🏆  With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity). </h4>
 
 
 <hr/>
