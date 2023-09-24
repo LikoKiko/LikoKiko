@@ -5,7 +5,7 @@
 
 <h4 align="center">Hi 👋, I'm Liko, and since I was 8 years old, I've been incredibly passionate about both application development and application security. </h4>
 
-<h4 align="center">I have been working in this field for more than 5 years. Software development and penetration testing are two topics that really interest me. in addition, I work on developing applications and cybersecurity.</h4>
+<h4 align="center">I have been working in this field for more than 5+ years. Software development and penetration testing are two topics that really interest me. in addition, I work on developing applications and cybersecurity.</h4>
 
 <h4 align="center">🎮 I Love to explore new things and make applications every day as a hobby and enjoy life. 😁 😉</h4>
 
