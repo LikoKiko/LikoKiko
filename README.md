@@ -3,17 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=LikoKiko&label=Profile%20views&color=0e75b6&style=flat" alt="LikoKiko" />
 </p>
 
-<h4 align="center">Hi 👋, I'm Liko!</h4>
-<h4 align="center">I've been incredibly passionate about both application development and application security since I was 8 years old.</h4>
-<h4 align="center">I have been working in this field for more than 5+ years and, currently, Software development and penetration testing are two topics that really interest me. In addition, I work on developing applications and cybersecurity.</h4>
+👋 Hey there! I'm Liko, a passionate developer and security enthusiast since the age of 8.
 
-<h4 align="center">🎮 I Love to explore new things and make applications every day as a hobby and enjoy life. 😁 😉</h4>
+🎯 My ultimate goal? To turn my dreams into reality and build my own company someday. 
 
-- 🎯 I would like to make my own company one day :)
+⚡ Currently taking a (well-deserved) break for the next 2 weeks ❗ 
 
-- ⚡ Currently resting for the next 2 weeks 😴
-
-- 🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects. 📚
+🏆  With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity).
 
 
 <hr/>
