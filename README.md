@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44649257?s=400&v=4" width="64" height="64" alt="LikoKiko"/><br/>
+  <img src="https://cdn.discordapp.com/attachments/1153584177871073283/1155613026720960583/SADSADSADSA-topaz-denoise-enhance-sharpen.png" width="64" height="64" alt="LikoKiko"/><br/>
   <img src="https://komarev.com/ghpvc/?username=LikoKiko&label=Profile%20views&color=0e75b6&style=flat" alt="LikoKiko" />
 </p>
 
-<h4 align="center">Hi 👋, I'm Liko💕😊,who is very passionate about application development and application security since I was 8 years old. </h4>
+<h4 align="center">Hi 👋, I'm Liko 💕 😊, who is very passionate about application development and application security since I was 8 years old. </h4>
 
-<h4 align="center">I have 5+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor📸.</h4>
+<h4 align="center">I have 5+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor 📸.</h4>
 
-<h4 align="center">🎮 I Love to explore new things and make applications every day as a hobby and enjoy life.😁😉</h4>
+<h4 align="center">🎮 I Love to explore new things and make applications every day as a hobby and enjoy life. 😁 😉</h4>
 
+- 🎯 I would like to make my own company one day :)
 
-- 🎯 I would like to make my own company one day:)
+- ⚡ Currently resting for the next 2 weeks 😴
 
-- ⚡ Currently resting for the next 2 weeks :)
+- 🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects. 📚
 
-- 🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects.
 
 <hr/>
 
