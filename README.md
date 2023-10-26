@@ -7,7 +7,7 @@
 
 <h4 align="center"> 🎯 My ultimate goal? To turn my dreams into reality and build my own company someday. </h4>
 
-<h4 align="center"> ⚡ Currently taking a (well-deserved) break for the next 2 weeks ❗ </h4>
+<h4 align="center"> ⚡ Currently coding ❗ </h4>
 
 <h4 align="center"> 🏆  With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity). </h4>
 
