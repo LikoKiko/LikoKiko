@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1153584177871073283/1155613026720960583/SADSADSADSA-topaz-denoise-enhance-sharpen.png" width="645" height="172" alt="LikoKiko"/><br/>
   <img src="https://komarev.com/ghpvc/?username=LikoKiko&label=Profile%20views&color=0e75b6&style=flat" alt="LikoKiko" />
 </p>
 
