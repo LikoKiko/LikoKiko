@@ -1,28 +1,29 @@
-# Hi there, I'm Liko 👋
+<h1 align="center">Hi there, I'm Liko 👋</h1>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/145937091?s=400&u=f093e9ada2f8a51d08a3f3f4f5d3ec7ca1b2b3f1&v=4" alt="Liko's Profile Picture" width="200" height="200" style="border-radius: 50%;" />
 </p>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-👋 Hey there! I'm Liko, a passionate developer and security enthusiast since the age of 8.
+<p align="center">
+  👋 Hey there! I'm Liko, a passionate developer and security enthusiast since the age of 8.<br>
+  🎯 My ultimate goal? To turn my dreams into reality and build my own company someday.<br>
+  ⚡ Currently coding ❗<br>
+  🏆 With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity).
+</p>
 
-🎯 My ultimate goal? To turn my dreams into reality and build my own company someday.
-
-⚡ Currently coding ❗
-
-🏆 With over 5+ years of experience in the world of software development, I thrive on learning new things and expanding my knowledge across various subjects (mostly developing applications and cybersecurity).
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LikoKiko&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="Liko's GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LikoKiko&theme=radical&hide_border=false" alt="Liko's GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LikoKiko&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Liko's Top Languages" />
 </p>
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -52,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1NDA5NTMsIm5iZiI6MTcxODU0MDY1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE2VDEyMjQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmYTg5YjdkNjk2NzgxMTNkOTkwMjkxMGU2NzA5ODMyYjhiNTMyOTYyZjJlYWI0MzNlYjAzYzA5MmY1NGRhOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZOKeAklCp4N3tZtPjNcG3uSAUQLsfSPyx2c659cE6hU" alt="smth" width="400" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1NDA5NTMsIm5iZiI6MTcxODU0MDY1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE2VDEyMjQxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmYTg5YjdkNjk2NzgxMTNkOTkwMjkxMGU2NzA5ODMyYjhiNTMyOTYyZjJlYWI0MzNlYjAzYzA5MmY1NGRhOWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ZOKeAklCp4N3tZtPjNcG3uSAUQLsfSPyx2c659cE6hU" alt="cool gif" width="400" />
 </p>
